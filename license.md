@@ -1,0 +1,2 @@
+- You can use this dataset to create your own Machine Learning model.
+- All other rights reserved. (Like: don't duplicate  / No copy / No redistributing) 
